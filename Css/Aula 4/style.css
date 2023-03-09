@@ -1,0 +1,22 @@
+body {
+    background: rgb(196, 196, 196);
+}
+
+
+p {
+    color: #363636;
+}
+
+.foto-principal {
+    /*border-width: 5px;
+    border-style: solid;
+    border-color: black;*/
+    width: 200px;;
+    border: 2px solid black;
+    border-radius: 50%;
+    border-top: dotted;
+    border-bottom: double;
+    border-right: solid;
+    border-left: double;
+}
+
